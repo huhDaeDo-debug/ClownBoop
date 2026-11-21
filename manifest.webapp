@@ -1,0 +1,18 @@
+{
+    "name": "Bocina Payaso",
+    "description": "App simple que reproduce una bocina de payaso al presionar un botón.",
+    "launch_path": "/",
+    "icons": {
+        "128": "/icono-128.png"
+    },
+    "developer": {
+        "name": "Tu Nombre",
+        "url": "https://github.com/tu-usuario"
+    },
+    "default_locale": "es",
+    "permissions": {
+        "audio-channel-content": {
+            "description": "Permite la reproducción de audio en el canal de contenido."
+        }
+    }
+}
